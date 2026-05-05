@@ -1,0 +1,12 @@
+# For running model locally (requires GPU)
+flask==3.0.0
+flask-cors==4.0.0
+torch==2.1.2
+diffusers==0.30.0
+transformers==4.44.0
+accelerate==0.34.0
+huggingface-hub==0.24.0
+pillow==10.2.0
+sentencepiece==0.2.0
+protobuf==4.25.1
+safetensors==0.4.5
